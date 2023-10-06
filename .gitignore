@@ -119,6 +119,10 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Folders to be ignored
+/voice_messages
+/voice_outputs
+
 # Environments
 .env
 .venv
